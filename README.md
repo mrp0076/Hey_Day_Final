@@ -13,9 +13,7 @@ if
 then
  echo "Oops, pls input a name"
 ```
-  ### ELSE statement that if name is given then it will show in terminal and capitalize first letter
+  ###  part of ELSE statement that if name is given then it will show in terminal and capitalize first letter
 ```ruby
-else
-
 echo "Hey ${Name^}!!"
 ```
