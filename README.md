@@ -1,5 +1,5 @@
 # Hey_Day_Final
-Hey Day is a tratition at Auburn dating from 1947. It was initially made as a way to foster camraderie and make a welcoming environment for veterans returning from WW2. The event continues to this day for students and faculty where they are encouraged to to wear name tags and to make new acquantinces. Overall, this event promotes community and belonging on the Auburn campus
+Hey Day is a tratition at Auburn dating from 1947. It was initially made as a way to foster camraderie and make a welcoming environment for veterans returning from WW2. The event continues to this day for students and faculty where they are encouraged to to wear name tags and to make new acquantinces. Overall, this event promotes community and belonging on the Auburn campus. You can more information at the link provided below
 
 https://auburn.instructure.com/courses/1595837/assignments/15936111
 
@@ -15,5 +15,7 @@ then
 ```
   ### ELSE statement that if name is given then it will show in terminal and capitalize first letter
 ```ruby
+else
+
 echo "Hey ${Name^}!!"
 ```
